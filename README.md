@@ -5,7 +5,6 @@
 ## Life
 - 17 years old
 - currently learning python and algorithms' basics
-- How to reach me: theghostlyspirit@outlook.com
 
 ## Skills
 
