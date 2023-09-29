@@ -3,7 +3,7 @@
 1st year software engineering student at Peter The Great St.Petersburg Polytechnic University
 
 ## Life
-- 17 years old
+- 18 years old
 - currently learning python and algorithms' basics
 
 ## Skills
