@@ -4,7 +4,6 @@
 
 ## Life
 - 18 years old
-- currently learning python and algorithms' basics
 
 ## Skills
 
