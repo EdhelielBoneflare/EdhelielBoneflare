@@ -1,6 +1,6 @@
 # Hi there, I'm Ann :wave:
 
-1st year software engineering student at Peter The Great St.Petersburg Polytechnic University
+2nd year software engineering student at Peter The Great St.Petersburg Polytechnic University
 
 ## Life
 - 18 years old
