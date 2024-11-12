@@ -3,7 +3,7 @@
 2nd year software engineering student at Peter The Great St.Petersburg Polytechnic University
 
 ## Life
-- 18 years old
+- 19 years old
 
 ## Skills
 
