@@ -9,7 +9,6 @@
 
 ![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=java)
-
 ![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux)
 
 _Other skills: 🤺 fencing, 💃 dancing, 🛼 rollerskating_
