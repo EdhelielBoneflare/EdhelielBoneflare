@@ -7,15 +7,18 @@
 
 ## Skills
 
-![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=java)
+![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring)
+![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)
+![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
 ![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux)
 
 _Other skills: 🤺 fencing, 💃 dancing, 🛼 rollerskating_
 
 ### Software
 
+![IntellijIDEA](https://go-skill-icons.vercel.app/api/icons?i=idea)
 ![PyCharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm)
 ![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman)
-![IntellijIDEA](https://go-skill-icons.vercel.app/api/icons?i=idea)
+
 
